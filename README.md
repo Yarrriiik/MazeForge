@@ -64,3 +64,11 @@ python main.py --size 15,15 --solve_indecies 1,1,15,15 --filename mazeitog3 --co
 ├── mazeitog3.png     # Пример решения лабиринта
 .
 ```
+
+Пример работы создания лабиринта:
+
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/689eb217-2035-4868-bb5d-fcf230add7c8" />
+
+Пример работы решения лабиринта:
+
+
