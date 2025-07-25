@@ -71,4 +71,5 @@ python main.py --size 15,15 --solve_indecies 1,1,15,15 --filename mazeitog3 --co
 
 Пример работы решения лабиринта:
 
+<img width="340" height="340" alt="mazeitog3" src="https://github.com/user-attachments/assets/566e5295-8145-46e5-a6ef-79825a64aa55" />
 
